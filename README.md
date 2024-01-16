@@ -31,6 +31,6 @@
 
 ## Github Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ERuban)](https://github.com/ERuban)
+[![](https://komarev.com/ghpvc/?username=ERuban)](https://github.com/ERuban)
 
-![](https://komarev.com/ghpvc/?username=ERuban)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ERuban)](https://github.com/ERuban)
