@@ -8,6 +8,12 @@
   <a href="https://stackoverflow.com/users/6130313/evgeny-ruban">Stack Overflow</a>
 </p>
 
+<p align="center">
+  <a href="https://stackoverflow.com/users/6130313/evgeny-ruban"><img src="https://img.shields.io/stackexchange/stackoverflow/r/6130313" alt="Stack Overflow reputation"></a>
+  &nbsp;
+  <a href="https://github.com/ERuban"><img src="https://komarev.com/ghpvc/?username=ERuban" alt="Profile views"></a>
+</p>
+
 ## Open-source contributions
 
 A selection of projects I've contributed to.
