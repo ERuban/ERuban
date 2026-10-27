@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178" height="38" viewBox="0 0 178 38" role="img" aria-label="Zendesk PHP Client">
+  <title>Zendesk PHP Client</title>
+  <rect x="0.5" y="0.5" width="177" height="33" rx="7" fill="#161b22" stroke="#3d444d"/>
+  <circle cx="16" cy="17" r="3" fill="#a5b4fc"/>
+  <text x="29" y="17" dy=".35em" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500">Zendesk PHP Client</text>
+</svg>
